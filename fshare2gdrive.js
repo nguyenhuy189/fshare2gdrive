@@ -18,7 +18,7 @@ const GREEN = '\x1b[32m%s\x1b[0m'
 const RED = '\x1b[31m%s\x1b[0m'
 const CYAN = '\x1b[36m%s\x1b[0m'
 
-const USER_AGENT = "kodivietmediaf-K58W6U"
+const USER_AGENT = "rclone-X4ZMZ0"
 
 const FSHARE_LOGIN_PATH = '/api/user/login'
 const FSHARE_GET_USER_PATH = '/api/user/get'
